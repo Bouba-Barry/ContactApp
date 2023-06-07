@@ -1,0 +1,36 @@
+# Dossiers de construction
+/build
+/bin
+/app/build
+
+# Fichiers de configuration personnels
+/.idea
+/.gradle
+/local.properties
+/.iml
+
+# Fichiers de cache
+.gradle
+/captures
+*.apk
+*.ap_
+
+# Fichiers de sauvegarde automatique
+*~
+
+# Fichiers de dépendances téléchargés
+/libs
+/dependencies
+
+# Fichiers de configuration Android Studio
+*.iml
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/gradle.xml
+/.idea/dictionaries
+
+# Fichiers de configuration de l'émulateur
+.avd/
+*.ini
+*.img
+*.lock
